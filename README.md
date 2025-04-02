@@ -5,3 +5,6 @@ A community-driven initiative to feed street dogs and help animals in need. This
 - Provide food and medical help to stray animals  
 - Connect with volunteers  
 - Raise awareness and donations  
+
+🤝 Contributing
+We welcome contributions! Feel free to submit issues, suggest features, or contribute to development.
